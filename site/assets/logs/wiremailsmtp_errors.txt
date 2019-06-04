@@ -1,0 +1,6 @@
+2018-10-21 13:21:54	developer	http://forum/	Error in hnsmtp::send : cannot connect to smtp-server!
+2018-10-21 13:24:19	developer	http://forum/?form=booking&result=success	Error in hnsmtp::send : cannot connect to smtp-server!
+2018-10-21 13:29:53	developer	http://forum/	Error in hnsmtp::send : cannot connect to smtp-server!
+2018-10-21 13:30:24	developer	http://forum/	Error in hnsmtp::send : cannot connect to smtp-server!
+2018-10-21 13:30:56	developer	http://forum/	Error in hnsmtp::send : cannot connect to smtp-server!
+2018-10-21 13:45:06	developer	http://forum/	Error in hnsmtp::send : cannot connect to smtp-server!

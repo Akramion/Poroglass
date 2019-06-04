@@ -1,0 +1,6 @@
+2018-10-20 13:27:06	guest	http://forum/install.php	Saved module info caches
+2018-10-20 13:27:07	guest	http://forum/http404/	Saved module info caches
+2018-10-21 13:21:12	developer	http://forum/processwire/module/download/	Saved module info caches
+2018-10-21 13:21:17	developer	http://forum/processwire/module/download/	Saved module info caches
+2018-10-21 13:21:23	developer	http://forum/processwire/module/	Installed module 'WireMailSmtp'
+2018-10-21 13:21:23	developer	http://forum/processwire/module/	Saved module info caches

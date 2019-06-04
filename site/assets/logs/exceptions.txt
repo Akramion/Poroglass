@@ -1,0 +1,1 @@
+2018-10-20 14:36:13	developer	http://forum/	Unknown Selector operator: '' -- was your selector value properly escaped?  (in C:\OSPanel\domains\forum\wire\core\Selectors.php line 378)

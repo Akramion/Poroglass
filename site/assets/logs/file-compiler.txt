@@ -1,0 +1,30 @@
+2018-10-20 13:27:16	?	?	Compiled file: /site/modules/AllInOneMinify/AllInOneMinify.module
+2018-10-20 13:27:17	?	?	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgrade.module
+2018-10-20 13:27:17	?	?	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.module
+2018-10-20 13:27:17	?	?	Compiled file: /site/modules/ProcessWireUpgrade/ProcessWireUpgradeCheck.config.php
+2018-10-20 13:27:23	?	?	Compiled file: /site/modules/TracyDebugger/TracyDebugger.module
+2018-10-20 13:27:24	guest	http://forum/processwire/	Compiled file: /site/modules/TracyDebugger/includes/TD.php
+2018-10-20 13:27:40	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/tracy-master/src/tracy.php
+2018-10-20 13:27:40	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/tracy-master/src/Tracy/Bar.php
+2018-10-20 13:27:40	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/tracy-master/src/Tracy/BlueScreen.php
+2018-10-20 13:27:40	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/tracy-master/src/Tracy/DefaultBarPanel.php
+2018-10-20 13:27:40	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/tracy-master/src/Tracy/Debugger.php
+2018-10-20 13:27:40	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/includes/BasePanel.php
+2018-10-20 13:27:40	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/panels/ProcesswireInfoPanel.php
+2018-10-20 13:27:41	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/panels/RequestInfoPanel.php
+2018-10-20 13:27:41	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/panels/ProcesswireLogsPanel.php
+2018-10-20 13:27:41	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/panels/TracyLogsPanel.php
+2018-10-20 13:27:42	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/panels/DebugModePanel.php
+2018-10-20 13:27:43	developer	http://forum/processwire/?login=1	Compiled file: /site/modules/TracyDebugger/panels/DumpsPanel.php
+2018-10-20 13:30:48	developer	http://forum/	Compiled file: /site/templates/common/_init.php
+2018-10-20 13:30:48	developer	http://forum/	Compiled file: /site/templates/home.php
+2018-10-20 13:30:54	developer	http://forum/	Compiled file: /site/modules/AllInOneMinify/lib/Less/Less.php
+2018-10-20 13:30:54	developer	http://forum/	Compiled file: /site/modules/AllInOneMinify/lib/Less/Cache.php
+2018-10-21 13:21:18	developer	http://forum/processwire/module/download/	Compiled file: /site/modules/WireMailSmtp/WireMailSmtp.module
+2018-10-21 13:21:19	developer	http://forum/processwire/module/download/	Compiled file: /site/modules/WireMailSmtp/WireMailSmtpConfig.php
+2018-10-21 13:21:49	developer	http://forum/	Compiled file: /site/modules/WireMailSmtp/WireMailSmtpAdaptor.php
+2018-10-21 13:21:52	developer	http://forum/	Compiled file: /site/modules/WireMailSmtp/smtp_classes/email_message.php
+2018-10-21 13:21:52	developer	http://forum/	Compiled file: /site/modules/WireMailSmtp/smtp_classes/smtp_message.php
+2018-10-21 13:21:54	developer	http://forum/	Compiled file: /site/modules/WireMailSmtp/smtp_classes/sasl.php
+2018-10-21 13:29:38	developer	http://forum/processwire/page/	Maintenance/Copy new version of source file to target file: /site/templates/common/_forms.php => /site/assets/cache/FileCompiler/site/templates\common/_forms.php
+2018-10-22 17:10:00	guest	http://forum/	Maintenance/Copy new version of source file to target file: /site/templates/common/_head.php => /site/assets/cache/FileCompiler/site/templates\common/_head.php
